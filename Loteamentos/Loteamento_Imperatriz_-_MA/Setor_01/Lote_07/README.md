@@ -8,8 +8,7 @@ Descrição breve sobre o lote, como localização e outras informações.
 - *Área Total:* XX m²
 
 ## Fotos
-![Descrição da Foto 1](link_da_foto_1)
-![Descrição da Foto 2](link_da_foto_2)
+![Lote 7](https://github.com/systemboys/aconchego_empreendimentos/blob/main/Loteamentos/Loteamento_Imperatriz_-_MA/Setor_01/Lote_07/images/ft1.jpeg?raw=true)
 
 ## Como Usar
 Instruções sobre como visualizar ou interagir com o lote.
