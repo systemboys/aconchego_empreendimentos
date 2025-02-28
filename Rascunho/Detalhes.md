@@ -12,7 +12,8 @@
 </ul>
 
 <h3>Fotos</h3>
-<img src="https://github.com/systemboys/aconchego_empreendimentos/raw/main/Loteamentos/Loteamento_Imperatriz_-_MA/Setor_01/Lote_07/images/ft1.jpeg?raw=true" alt="Descrição da Foto 1" width="350"><br>
+
+<p><img src="link_da_foto_1" alt="Descrição da Foto 1" width="450"></p>
 ```
 
 # Marckdown
